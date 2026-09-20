@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "M.M Store",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "798613",
+    "circle": "North Eastern Circle",
+    "region": "North Eastern Region",
+    "division": "Nagaland Division",
+    "major_offices": "Chantongia S.O, Yaongyimsen B.O",
+    "phone_number": "+91 98628 53330",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": null,
+    "address": "Lempong, Junction, Longleng, Nagaland 798625",
+    "area": "798613",
+    "latitude": 26.4919926,
+    "longitude": 94.8046045,
+    "place_id": "ChIJJxgJ2NJzRzcRgiGBRMtwBvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJxgJ2NJzRzcRgiGBRMtwBvY",
+    "part_id": "part_373",
+    "crawled_at": "2026-09-20 20:27:06"
+  }
+]
