@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Kamat Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Chinese restaurant",
+    "pincode": "802352",
+    "circle": "Bihar circle",
+    "region": "Patna HQ Region",
+    "division": "Bhojpur Division",
+    "major_offices": "Jalpura BO, Jokta BO, Nasaratpur BO",
+    "phone_number": "+91 96932 12206",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Boring Patliputra Rd, Alpana market, Patna, Bihar 800013",
+    "area": "Alpana market",
+    "latitude": 25.6236228,
+    "longitude": 85.1100125,
+    "place_id": "ChIJUdcLxCtY7TkRULqiL11xA48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUdcLxCtY7TkRULqiL11xA48",
+    "part_id": "part_377",
+    "crawled_at": "2026-09-20 20:41:19"
+  }
+]

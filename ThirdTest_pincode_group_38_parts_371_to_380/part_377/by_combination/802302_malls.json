@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Ara Central Mall",
+    "search_category": "Malls",
+    "primary_category": "Building",
+    "all_categories": "Building",
+    "pincode": "802302",
+    "circle": "Bihar Circle",
+    "region": "Patna HQ Region",
+    "division": "Bhojpur Division",
+    "major_offices": "Anaith SO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2, Jagdev Road, Hanuman Nagar, Arrah, Bihar 802302",
+    "area": "Hanuman Nagar",
+    "latitude": 25.542171999999997,
+    "longitude": 84.653125,
+    "place_id": "ChIJ0XkCqnRfjTkRxqLi4HQDNGw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0XkCqnRfjTkRxqLi4HQDNGw",
+    "part_id": "part_377",
+    "crawled_at": "2026-09-20 20:37:43"
+  }
+]

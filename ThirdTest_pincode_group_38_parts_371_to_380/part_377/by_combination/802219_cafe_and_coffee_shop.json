@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "BnB Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "802219",
+    "circle": "Bihar Circle",
+    "region": "Patna HQ Region",
+    "division": "Rohtas Division",
+    "major_offices": "Rajpur SO Rohtas, Bisheni Kala BO, Bishunpur BO",
+    "phone_number": "+91 82106 66676",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Mehta Bhawan, Arya Kumar Rd, Dinkar Golambar, Patna, Bihar 800016",
+    "area": "Dinkar Golambar",
+    "latitude": 25.611542099999998,
+    "longitude": 85.1595706,
+    "place_id": "ChIJB51FGN1Z7TkRO1IViZqeUXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB51FGN1Z7TkRO1IViZqeUXw",
+    "part_id": "part_377",
+    "crawled_at": "2026-09-20 20:33:21"
+  }
+]

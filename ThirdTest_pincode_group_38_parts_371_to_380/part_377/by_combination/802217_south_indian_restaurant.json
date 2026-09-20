@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Gurunanak Cafeteria",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Family restaurant, Tourist attraction",
+    "pincode": "802217",
+    "circle": "Bihar Circle",
+    "region": "Patna HQ Region",
+    "division": "Rohtas Division",
+    "major_offices": "Meari Bazar SO, Belwan BO, Eghara BO",
+    "phone_number": "N/A",
+    "website": "https://api1.vyaparapp.in/store/gurunanakcafeteria1",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Makhdum kund, College Road, Nimal, Rajgir, Bihar 803116",
+    "area": "Nimal",
+    "latitude": 25.0172074,
+    "longitude": 85.4225925,
+    "place_id": "ChIJX1gd62fl8jkRKsAqLaAgpDY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX1gd62fl8jkRKsAqLaAgpDY",
+    "part_id": "part_377",
+    "crawled_at": "2026-09-20 20:32:11"
+  }
+]
