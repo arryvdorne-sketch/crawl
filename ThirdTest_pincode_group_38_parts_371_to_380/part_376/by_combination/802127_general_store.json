@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Jatin Enterprises",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "802127",
+    "circle": "Bihar circle",
+    "region": "Patna HQ Region",
+    "division": "Bhojpur Division",
+    "major_offices": "Girdhar Baraon BO, Rampur BO, Murar SO",
+    "phone_number": "+91 72559 63846",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "F747+JQ3, 101, near Kabristan, Ward 6, Baraon, Buxar, Bihar 802127",
+    "area": "Ward 6",
+    "latitude": 25.4565061,
+    "longitude": 84.264454,
+    "place_id": "ChIJ62JUrNKBjTkRdVQukBAajzs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ62JUrNKBjTkRdVQukBAajzs",
+    "part_id": "part_376",
+    "crawled_at": "2026-09-20 20:39:44"
+  }
+]

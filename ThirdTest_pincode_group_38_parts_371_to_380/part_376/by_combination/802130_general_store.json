@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Anand Enterprises",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "802130",
+    "circle": "Bihar circle",
+    "region": "Patna HQ Region",
+    "division": "Bhojpur Division",
+    "major_offices": "Balua BO, Dallupur BO, Gaighat BO",
+    "phone_number": "+91 73909 65624",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Brahmapur - Koransarai Rd, near of Hanuman Temple, Nimej, Bihar 802130",
+    "area": "802130",
+    "latitude": 25.6169092,
+    "longitude": 84.30037689999999,
+    "place_id": "ChIJkfBVYDKBkjkR1lwWaxyJTPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkfBVYDKBkjkR1lwWaxyJTPc",
+    "part_id": "part_376",
+    "crawled_at": "2026-09-20 20:41:43"
+  }
+]

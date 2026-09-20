@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "My Massage",
+    "search_category": "Spa",
+    "primary_category": "Massage therapist",
+    "all_categories": "Massage therapist, Massage spa",
+    "pincode": "801506",
+    "circle": "Bihar Circle",
+    "region": "Patna HQ Region",
+    "division": "Patna Division",
+    "major_offices": "SAHAYNAGAR S.O, DHANAUT BO",
+    "phone_number": "+91 76318 77771",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "2nd Floor, Planco Shanti Awas, Boring Patliputra Rd, opposite to Suraksha Diagnostics- Kamini Center, Patna, Bihar 800013",
+    "area": "New Patliputra Colony, Patliputra Colony",
+    "latitude": 25.62164,
+    "longitude": 85.1083846,
+    "place_id": "ChIJTyG1vytY7TkRGVVfV3SRWhI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTyG1vytY7TkRGVVfV3SRWhI",
+    "part_id": "part_376",
+    "crawled_at": "2026-09-20 20:27:07"
+  }
+]

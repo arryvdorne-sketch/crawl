@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Hotel yuvraj",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "802103",
+    "circle": "Bihar circle",
+    "region": "Patna HQ Region",
+    "division": "Bhojpur Division",
+    "major_offices": "Boksa BO, Mahdah BO, Nadaoan BO",
+    "phone_number": "+91 81029 45336",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "near Toll plaza, Belaur, Khadra, Bihar 802116",
+    "area": "802103",
+    "latitude": 25.5788898,
+    "longitude": 84.06391699999999,
+    "place_id": "ChIJrd56T6F3kjkRQfca_AzsffQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrd56T6F3kjkRQfca_AzsffQ",
+    "part_id": "part_376",
+    "crawled_at": "2026-09-20 20:30:07"
+  }
+]

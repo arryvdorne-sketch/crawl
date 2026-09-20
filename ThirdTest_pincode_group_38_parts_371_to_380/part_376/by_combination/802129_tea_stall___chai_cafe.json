@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Chai Cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Cafe",
+    "pincode": "802129",
+    "circle": "Bihar circle",
+    "region": "Patna HQ Region",
+    "division": "Bhojpur Division",
+    "major_offices": "Atimi BO, Basaon Kalan BO, Belaon BO",
+    "phone_number": "+91 89285 43741",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 18,
+    "address": "Shop Number 02, Range Heights, Behram Baug Rd, Patliputra, Jogeshwari West, Mumbai, Maharashtra 400102",
+    "area": "Patliputra, Jogeshwari West",
+    "latitude": 19.145808,
+    "longitude": 72.83713999999999,
+    "place_id": "ChIJqRDitSu35zsR5B9ZtLyxKI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqRDitSu35zsR5B9ZtLyxKI8",
+    "part_id": "part_376",
+    "crawled_at": "2026-09-20 20:41:02"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Manish Kumar",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "802126",
+    "circle": "Bihar circle",
+    "region": "Patna HQ Region",
+    "division": "Bhojpur Division",
+    "major_offices": "Amsari BO, Athar BO, Belahari BO",
+    "phone_number": "+91 75030 58314",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "KoranSarai, Bihar 802126",
+    "area": "Koransarai",
+    "latitude": 25.471920599999997,
+    "longitude": 84.1842963,
+    "place_id": "ChIJ06PGSnWHjTkRQBmPmqRAGtw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ06PGSnWHjTkRQBmPmqRAGtw",
+    "part_id": "part_376",
+    "crawled_at": "2026-09-20 20:39:08"
+  }
+]

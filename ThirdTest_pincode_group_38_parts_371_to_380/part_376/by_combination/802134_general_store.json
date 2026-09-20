@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Munna General Store",
+    "search_category": "General Store",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "802134",
+    "circle": "Bihar circle",
+    "region": "Patna HQ Region",
+    "division": "Bhojpur Division",
+    "major_offices": "Bagen BO, Baruhan BO, Bhada BO",
+    "phone_number": "+91 97980 91561",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bagen, Buxar, Bihar 802134",
+    "area": "802134",
+    "latitude": 25.498853,
+    "longitude": 84.3069886,
+    "place_id": "ChIJQy9_5_l_jTkRavkAr38ou3A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQy9_5_l_jTkRavkAr38ou3A",
+    "part_id": "part_376",
+    "crawled_at": "2026-09-20 20:44:25"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Raj hospital, Dumraon",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "802136",
+    "circle": "Bihar circle",
+    "region": "Patna HQ Region",
+    "division": "Bhojpur Division",
+    "major_offices": "Khirauli BO, Dumraon Textiles SO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "1, Gola Rd, Dumraon, Bihar 802119",
+    "area": "802136",
+    "latitude": 25.553841,
+    "longitude": 84.14612269999999,
+    "place_id": "ChIJ5xksHId4kjkRvECNySVh-cw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5xksHId4kjkRvECNySVh-cw",
+    "part_id": "part_376",
+    "crawled_at": "2026-09-20 20:45:53"
+  }
+]

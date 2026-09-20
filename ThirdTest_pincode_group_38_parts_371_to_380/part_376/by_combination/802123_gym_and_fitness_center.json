@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Fitness center",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "802123",
+    "circle": "Bihar circle",
+    "region": "Patna HQ Region",
+    "division": "Bhojpur Division",
+    "major_offices": "Atrauna BO, Baikunthpur BO, Basantpur BO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Bazar, Atrauna Rd, Itarhi, Bihar 802123",
+    "area": "802123",
+    "latitude": 25.4831441,
+    "longitude": 83.99909889999999,
+    "place_id": "ChIJY906ijGLjTkROsMf2QTeCeo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY906ijGLjTkROsMf2QTeCeo",
+    "part_id": "part_376",
+    "crawled_at": "2026-09-20 20:37:54"
+  }
+]

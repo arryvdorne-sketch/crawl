@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Abhay Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Airline ticket agency, Car leasing service, Car rental agency, Tour operator, Railway Ticket Agent",
+    "pincode": "802123",
+    "circle": "Bihar circle",
+    "region": "Patna HQ Region",
+    "division": "Bhojpur Division",
+    "major_offices": "Atrauna BO, Baikunthpur BO, Basantpur BO",
+    "phone_number": "+91 93369 29015",
+    "website": "https://abhaytravels.com/",
+    "rating": 4.6,
+    "reviews_count": 87,
+    "address": "S. A 1/55 Thakurpura,, Mental Hospital Road, Pandeypur, near Bank Colony, Varanasi, Uttar Pradesh 221002",
+    "area": "Sikraul",
+    "latitude": 25.3500943,
+    "longitude": 82.99137309999999,
+    "place_id": "ChIJaY4MitUtjjkRLPwvIAWMEDs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaY4MitUtjjkRLPwvIAWMEDs",
+    "part_id": "part_376",
+    "crawled_at": "2026-09-20 20:37:56"
+  }
+]
