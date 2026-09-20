@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Fish market",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "798621",
+    "circle": "North Eastern Circle",
+    "region": "North Eastern Region",
+    "division": "Nagaland Division",
+    "major_offices": "Mon S.O, Chui B.O, Longpong Senghe B.O",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P2CJ+Q58, Mon Village, Mon, Nagaland 798621",
+    "area": "798621",
+    "latitude": 26.721923999999998,
+    "longitude": 95.03045379999999,
+    "place_id": "ChIJ4fNmfQBfRzcRqm3TCvceThQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4fNmfQBfRzcRqm3TCvceThQ",
+    "part_id": "part_373",
+    "crawled_at": "2026-09-20 20:31:27"
+  }
+]

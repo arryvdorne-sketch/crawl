@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Imli Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "798623",
+    "circle": "North Eastern Circle",
+    "region": "North Eastern Region",
+    "division": "Nagaland Division",
+    "major_offices": "Paper Nagar S.O",
+    "phone_number": "+91 93664 38116",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Papar Mill, 1245, Road, Tzudikong, Tuli, Nagaland 798623",
+    "area": "Road",
+    "latitude": 26.716078999999997,
+    "longitude": 94.63268339999999,
+    "place_id": "ChIJr86sBckXRzcRbFAaqgSesgU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr86sBckXRzcRbFAaqgSesgU",
+    "part_id": "part_373",
+    "crawled_at": "2026-09-20 20:32:36"
+  }
+]

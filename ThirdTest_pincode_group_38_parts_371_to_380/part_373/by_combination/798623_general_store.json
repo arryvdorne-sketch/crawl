@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "farmace",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "798623",
+    "circle": "North Eastern Circle",
+    "region": "North Eastern Region",
+    "division": "Nagaland Division",
+    "major_offices": "Paper Nagar S.O",
+    "phone_number": "+91 88370 38238",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "market buiding 798623, zion hs school, Nagaland 798623",
+    "area": "798623",
+    "latitude": 26.715220499999997,
+    "longitude": 94.6350672,
+    "place_id": "ChIJgeMI7DkXRzcR3UP8HO4cK8g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgeMI7DkXRzcR3UP8HO4cK8g",
+    "part_id": "part_373",
+    "crawled_at": "2026-09-20 20:32:38"
+  }
+]
