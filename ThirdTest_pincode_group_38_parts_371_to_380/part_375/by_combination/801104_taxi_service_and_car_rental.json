@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "A-One Cab Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service",
+    "pincode": "801104",
+    "circle": "Bihar Circle",
+    "region": "Patna HQ Region",
+    "division": "Patna Division",
+    "major_offices": "BIKRAM S.O, Akhtiyarpur BO, ARAP BO",
+    "phone_number": "+91 70339 87774",
+    "website": "https://aonecabservice.odoo.com/",
+    "rating": 5,
+    "reviews_count": 50,
+    "address": "Road Naubatpur-Khagaul Road, Nagwan, Karai, Gadaipur, Bihar 801109",
+    "area": "Nagwan",
+    "latitude": 25.5254202,
+    "longitude": 84.9723274,
+    "place_id": "ChIJI5suJSpQKmYRlF5QHT9N5Og",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI5suJSpQKmYRlF5QHT9N5Og",
+    "part_id": "part_375",
+    "crawled_at": "2026-09-20 20:53:17"
+  }
+]

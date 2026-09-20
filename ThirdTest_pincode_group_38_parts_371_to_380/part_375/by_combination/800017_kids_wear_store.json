@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "kid's gallery",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "800017",
+    "circle": "Bihar Circle",
+    "region": "Patna HQ Region",
+    "division": "Patna Division",
+    "major_offices": "BSEBOARD SO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "AG Colony Main Rd, Block - A, Anandpuri, Patna, Bihar 800013",
+    "area": "Block - A, Anandpuri",
+    "latitude": 25.621137299999997,
+    "longitude": 85.1127472,
+    "place_id": "ChIJaxEjEwFZ7TkRsy4DeHQFJls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaxEjEwFZ7TkRsy4DeHQFJls",
+    "part_id": "part_375",
+    "crawled_at": "2026-09-20 20:40:37"
+  }
+]

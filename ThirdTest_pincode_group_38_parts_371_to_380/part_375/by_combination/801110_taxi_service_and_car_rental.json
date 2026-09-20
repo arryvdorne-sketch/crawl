@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Zeo Taxi",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "801110",
+    "circle": "Bihar circle",
+    "region": "Patna HQ Region",
+    "division": "Patna Division",
+    "major_offices": "Achua BO, ANKURI BO, BANAULI KHURD BO",
+    "phone_number": "+91 72754 95696",
+    "website": "https://www.zeotaxi.com/padrauna",
+    "rating": 4.6,
+    "reviews_count": 10,
+    "address": "ZT Room- 27A, Noniya Patti, Jagdishpuram colony, Padrauna, Uttar Pradesh 274304",
+    "area": "Jagdishpuram colony",
+    "latitude": 26.897878799999997,
+    "longitude": 83.9875117,
+    "place_id": "ChIJk1DCgwGNkzkR9pDZjgPOjpw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk1DCgwGNkzkR9pDZjgPOjpw",
+    "part_id": "part_375",
+    "crawled_at": "2026-09-20 20:57:01"
+  }
+]

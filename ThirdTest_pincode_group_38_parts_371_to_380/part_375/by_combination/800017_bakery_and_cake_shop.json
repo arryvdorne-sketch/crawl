@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Monginis Cake Shop",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop, Wedding bakery",
+    "pincode": "800017",
+    "circle": "Bihar Circle",
+    "region": "Patna HQ Region",
+    "division": "Patna Division",
+    "major_offices": "BSEBOARD SO",
+    "phone_number": "+91 93341 11678",
+    "website": "https://www.monginis.net/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Gola Rd, near Patanajai Mega Store, Ramjaipal Nagar, Patna, Bihar 801503",
+    "area": "Ramjaipal Nagar",
+    "latitude": 25.6143958,
+    "longitude": 85.0569084,
+    "place_id": "ChIJZ9-EsT1X7TkRicxfSq5iahE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ9-EsT1X7TkRicxfSq5iahE",
+    "part_id": "part_375",
+    "crawled_at": "2026-09-20 20:40:33"
+  }
+]

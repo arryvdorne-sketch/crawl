@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Kumar Cement Store",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "801106",
+    "circle": "Bihar Circle",
+    "region": "Patna HQ Region",
+    "division": "Patna Division",
+    "major_offices": "IIT Patna Bihta SO",
+    "phone_number": "+91 91133 83613",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kumar Cement Store Iit Bihta, Mean Road, Patna, Bihar 801106",
+    "area": "801106",
+    "latitude": 25.537188,
+    "longitude": 84.8555184,
+    "place_id": "ChIJ3eiKgjxXjTkRPcal2QbrzL0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3eiKgjxXjTkRPcal2QbrzL0",
+    "part_id": "part_375",
+    "crawled_at": "2026-09-20 20:54:52"
+  }
+]

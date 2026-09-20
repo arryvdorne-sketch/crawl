@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "BBQ COMPANY",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "800028",
+    "circle": "Bihar Circle",
+    "region": "Patna HQ Region",
+    "division": "Patna Division",
+    "major_offices": "Patna High Court SO",
+    "phone_number": "+91 70918 95888",
+    "website": "https://bbqcompany.in/",
+    "rating": 4.7,
+    "reviews_count": 1646,
+    "address": "5th Floor, Bhavya Iconic Tower Gola road, Bailey Rd, Patna, Bihar 801503",
+    "area": "Shri Krishna Puram",
+    "latitude": 25.612453499999997,
+    "longitude": 85.05639169999999,
+    "place_id": "ChIJseiasm5X7TkRayMnFiUNTMQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJseiasm5X7TkRayMnFiUNTMQ",
+    "part_id": "part_375",
+    "crawled_at": "2026-09-20 20:49:50"
+  }
+]

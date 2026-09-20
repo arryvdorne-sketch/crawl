@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Amit store",
+    "search_category": "Organic Food Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "800027",
+    "circle": "Bihar Circle",
+    "region": "Patna HQ Region",
+    "division": "Patna Division",
+    "major_offices": "New Jaganpura SO",
+    "phone_number": "+91 70705 18471",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Shahpur Ramdhanipur beimantola, Patna, Bihar 800030",
+    "area": "Bashudev Nagar",
+    "latitude": 25.5673566,
+    "longitude": 85.15738329999999,
+    "place_id": "ChIJ_2RAaLun8jkRDdemGQv7bP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_2RAaLun8jkRDdemGQv7bP0",
+    "part_id": "part_375",
+    "crawled_at": "2026-09-20 20:48:52"
+  }
+]

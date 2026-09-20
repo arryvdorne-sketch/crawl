@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Blue Diamond Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "800021",
+    "circle": "Bihar Circle",
+    "region": "Patna HQ Region",
+    "division": "Patna Division",
+    "major_offices": "Vidyut Parisad SO",
+    "phone_number": "+91 98358 22000",
+    "website": "http://bluediamondhospital.com/",
+    "rating": 3.5,
+    "reviews_count": 95,
+    "address": "Vijay Nagar, Patna, Bihar 800026",
+    "area": "Vijay Nagar",
+    "latitude": 25.5885626,
+    "longitude": 85.17277419999999,
+    "place_id": "ChIJKYTEQqFY7TkRg9LVe_jLT6k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKYTEQqFY7TkRg9LVe_jLT6k",
+    "part_id": "part_375",
+    "crawled_at": "2026-09-20 20:44:02"
+  }
+]

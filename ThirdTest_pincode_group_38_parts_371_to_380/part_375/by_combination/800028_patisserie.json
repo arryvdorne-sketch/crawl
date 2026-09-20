@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "The Belgian Waffle Co",
+    "search_category": "Patisserie",
+    "primary_category": "Dessert restaurant",
+    "all_categories": "Dessert restaurant, Cafe, Cake shop, Family restaurant, Ice cream shop",
+    "pincode": "800028",
+    "circle": "Bihar Circle",
+    "region": "Patna HQ Region",
+    "division": "Patna Division",
+    "major_offices": "Patna High Court SO",
+    "phone_number": "+91 62063 77352",
+    "website": "https://thebelgianwaffle.co/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "181/B, Children's Park Rd, Sri Krishna Puri, Patna, Bihar 800001",
+    "area": "Sri Krishna Puri",
+    "latitude": 25.612779699999997,
+    "longitude": 85.1144034,
+    "place_id": "ChIJKZPYkiRZ7TkRmn_Rupxgwo8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKZPYkiRZ7TkRmn_Rupxgwo8",
+    "part_id": "part_375",
+    "crawled_at": "2026-09-20 20:49:49"
+  }
+]

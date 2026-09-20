@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Dr. Ruban Diagnostics",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "800021",
+    "circle": "Bihar Circle",
+    "region": "Patna HQ Region",
+    "division": "Patna Division",
+    "major_offices": "Vidyut Parisad SO",
+    "phone_number": "+91 612 234 2999",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": null,
+    "address": "P/5, Vidyapuri, Jogipur, Kankarbagh, Bankman Colony, Patna, Bihar 800020",
+    "area": "Vidyapuri, Jogipur, Kankarbagh, Bankman Colony",
+    "latitude": 25.594817499999998,
+    "longitude": 85.1591807,
+    "place_id": "ChIJAQAAQJBY7TkRpfshNmEtLfY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAQJBY7TkRpfshNmEtLfY",
+    "part_id": "part_375",
+    "crawled_at": "2026-09-20 20:44:06"
+  }
+]

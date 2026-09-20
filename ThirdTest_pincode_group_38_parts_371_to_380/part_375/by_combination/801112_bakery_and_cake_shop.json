@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Pizza Bakery point",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Pizza delivery, Sandwich shop",
+    "pincode": "801112",
+    "circle": "Bihar Circle",
+    "region": "Patna HQ Region",
+    "division": "Patna Division",
+    "major_offices": "LAI S.O, BARAH BO, BINDAUL BO",
+    "phone_number": "+91 79911 63373",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 63,
+    "address": "Gayatri Place,Patel Nagar,Adarsh Colony, Nagar, Bihar 801103",
+    "area": "West Patel Nagar, Adarsh Colony, North Shastri Nagar",
+    "latitude": 25.617837299999998,
+    "longitude": 85.0964485,
+    "place_id": "ChIJM9VGZ_xX7TkRlXn420gwAhA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM9VGZ_xX7TkRlXn420gwAhA",
+    "part_id": "part_375",
+    "crawled_at": "2026-09-20 20:58:16"
+  }
+]

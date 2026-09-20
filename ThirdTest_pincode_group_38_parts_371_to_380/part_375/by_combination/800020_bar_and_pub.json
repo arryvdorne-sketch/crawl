@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Vivek Hotel",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "800020",
+    "circle": "Bihar circle",
+    "region": "Patna HQ Region",
+    "division": "Patna Division",
+    "major_offices": "DHELMA BO, Ashok Nagar SO Patna, Chitragupta Nagar SO",
+    "phone_number": "+91 91109 70964",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chandmari Rd, Kankarbagh, Mithapur, Patna, Bihar 800020",
+    "area": "Kankarbagh, Mithapur",
+    "latitude": 25.600468,
+    "longitude": 85.1440314,
+    "place_id": "ChIJkQz5q9JZ7TkR6j6iRev8zVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkQz5q9JZ7TkR6j6iRev8zVc",
+    "part_id": "part_375",
+    "crawled_at": "2026-09-20 20:43:05"
+  }
+]
