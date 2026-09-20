@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "795122",
+    "circle": "North Eastern Circle",
+    "region": "North Eastern Region",
+    "division": "Manipur Division",
+    "major_offices": "Kalapahar S.O, Chandraman B.O, Haipi B.O",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Saparmeina, Manipur 795107",
+    "area": "795122",
+    "latitude": 25.0448387,
+    "longitude": 93.926875,
+    "place_id": "ChIJNbjmK5rFSDcRuXz6ZgmHB6Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNbjmK5rFSDcRuXz6ZgmHB6Q",
+    "part_id": "part_371",
+    "crawled_at": "2026-09-20 20:20:58"
+  }
+]
