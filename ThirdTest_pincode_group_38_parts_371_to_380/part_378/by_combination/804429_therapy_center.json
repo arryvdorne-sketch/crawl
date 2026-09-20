@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Physiotherapy clinic",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "804429",
+    "circle": "Bihar Circle",
+    "region": "Patna HQ Region",
+    "division": "Gaya Division",
+    "major_offices": "Nehalpur SO, Dhana Dehri BO, Jamuk BO",
+    "phone_number": "+91 70796 32144",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kalpa, Bihar 804417",
+    "area": "804429",
+    "latitude": 25.2332707,
+    "longitude": 84.9625954,
+    "place_id": "ChIJB3FKXie18jkRlJ234x6lHss",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB3FKXie18jkRlJ234x6lHss",
+    "part_id": "part_378",
+    "crawled_at": "2026-09-20 20:44:24"
+  }
+]

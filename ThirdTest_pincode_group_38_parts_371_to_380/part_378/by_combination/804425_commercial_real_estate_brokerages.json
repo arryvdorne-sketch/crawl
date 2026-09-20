@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Real Estate business",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Housing development",
+    "all_categories": "Housing development",
+    "pincode": "804425",
+    "circle": "Bihar Circle",
+    "region": "Patna HQ Region",
+    "division": "Gaya Division",
+    "major_offices": "Sakurabad SO, Amain BO, Ikil BO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CV65+J2Q, Siswa Kharar, Bihar 845432",
+    "area": "804425",
+    "latitude": 26.411977,
+    "longitude": 84.857096,
+    "place_id": "ChIJMWtJwmgrkzkRUlIu1-M31WQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMWtJwmgrkzkRUlIu1-M31WQ",
+    "part_id": "part_378",
+    "crawled_at": "2026-09-20 20:42:12"
+  }
+]

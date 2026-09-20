@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Pet Supermarket",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Pet groomer, Pet store",
+    "pincode": "804428",
+    "circle": "Bihar Circle",
+    "region": "Patna HQ Region",
+    "division": "Gaya Division",
+    "major_offices": "Usari SO, Bambhai BO, Belkhara BO",
+    "phone_number": "+91 95919 47453",
+    "website": "https://www.petsupermarket.com/",
+    "rating": 4.9,
+    "reviews_count": 888,
+    "address": "Basement, RR complex, 82/1/43, Konanakunte Main Rd, Anjanadri Layout, Konanakunte, Bengaluru, Karnataka 560062",
+    "area": "Anjanadri Layout, Konanakunte",
+    "latitude": 12.8865945,
+    "longitude": 77.5659613,
+    "place_id": "ChIJd9Tn0g0VrjsRkey8tePWcYg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd9Tn0g0VrjsRkey8tePWcYg",
+    "part_id": "part_378",
+    "crawled_at": "2026-09-20 20:43:32"
+  }
+]

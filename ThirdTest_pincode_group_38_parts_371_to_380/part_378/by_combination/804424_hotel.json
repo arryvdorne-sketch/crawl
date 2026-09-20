@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "VIKRAM HOTEL",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "804424",
+    "circle": "Bihar Circle",
+    "region": "Patna HQ Region",
+    "division": "Gaya Division",
+    "major_offices": "Paibigha SO, Gayani Bigha BO, Ghejan BO",
+    "phone_number": "+91 62040 50020",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "VIKRAM HOTEL, Pai Bigha, Bihar 804424",
+    "area": "804424",
+    "latitude": 25.0467995,
+    "longitude": 84.91654199999999,
+    "place_id": "ChIJ7VOi4okzjTkRWt7EMUcmDcA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7VOi4okzjTkRWt7EMUcmDcA",
+    "part_id": "part_378",
+    "crawled_at": "2026-09-20 20:41:30"
+  }
+]

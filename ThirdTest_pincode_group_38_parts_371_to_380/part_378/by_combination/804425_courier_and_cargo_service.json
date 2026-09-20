@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Post Office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "804425",
+    "circle": "Bihar Circle",
+    "region": "Patna HQ Region",
+    "division": "Gaya Division",
+    "major_offices": "Sakurabad SO, Amain BO, Ikil BO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "5XF6+V4X, Pandui, Bihar 804417",
+    "area": "804425",
+    "latitude": 25.1747315,
+    "longitude": 84.9603456,
+    "place_id": "ChIJSQ9UWRHL8jkRLtKP6wSXCWM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSQ9UWRHL8jkRLtKP6wSXCWM",
+    "part_id": "part_378",
+    "crawled_at": "2026-09-20 20:42:11"
+  }
+]

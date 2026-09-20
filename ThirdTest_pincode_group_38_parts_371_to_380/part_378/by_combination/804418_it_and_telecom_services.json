@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Airtel Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider, Internet service provider, Mobile network operator",
+    "pincode": "804418",
+    "circle": "Bihar Circle",
+    "region": "Patna HQ Region",
+    "division": "Gaya Division",
+    "major_offices": "Kako SO, Bhadsara BO, Alinagarpali BO",
+    "phone_number": "+91 99555 90463",
+    "website": "https://airtel.in/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Kako, Bihar 804418",
+    "area": "804418",
+    "latitude": 25.227157,
+    "longitude": 85.069707,
+    "place_id": "ChIJUc2nSR238jkRmOagKDpzhFE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUc2nSR238jkRmOagKDpzhFE",
+    "part_id": "part_378",
+    "crawled_at": "2026-09-20 20:38:08"
+  }
+]

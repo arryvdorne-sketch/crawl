@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Chai Tapri",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "804408",
+    "circle": "Bihar Circle",
+    "region": "Patna HQ Region",
+    "division": "Gaya Division",
+    "major_offices": "Jehanabad HO, Jehanabad Kutchary SO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6X6F+3PQ, Bihar 804408",
+    "area": "804408",
+    "latitude": 25.2102221,
+    "longitude": 84.974358,
+    "place_id": "ChIJ5QtgcwC18jkRFyJUVcx1DfQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5QtgcwC18jkRFyJUVcx1DfQ",
+    "part_id": "part_378",
+    "crawled_at": "2026-09-20 20:36:32"
+  }
+]
