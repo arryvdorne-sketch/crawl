@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Royal Roosters",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "801505",
+    "circle": "Bihar circle",
+    "region": "Patna HQ Region",
+    "division": "Patna Division",
+    "major_offices": "Alampur Gonpura BO, DHIBRA BO, MOBARAKPUR BO",
+    "phone_number": "+91 92415 07824",
+    "website": "https://royalroosters.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Royal Roosters, poultry farm, AIIMS Road, Janipur, Patna, Bihar 801505",
+    "area": "801505",
+    "latitude": 25.534919,
+    "longitude": 85.02818769999999,
+    "place_id": "ChIJgVPro4mp8jkRY7REQpc0CA0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgVPro4mp8jkRY7REQpc0CA0",
+    "part_id": "part_376",
+    "crawled_at": "2026-09-20 20:26:00"
+  }
+]
