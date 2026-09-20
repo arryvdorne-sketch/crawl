@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Hello",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "795142",
+    "circle": "North Eastern Circle",
+    "region": "North Eastern Region",
+    "division": "Manipur Division",
+    "major_offices": "Ukhrul S.O, Chamu B.O, Chingai (P) B.O",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "497C+V6Q, Ukhrul, Manipur 795142",
+    "area": "795142",
+    "latitude": 25.1147083,
+    "longitude": 94.3706127,
+    "place_id": "ChIJDdz2UwD3SDcRMtORF8KY1r8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDdz2UwD3SDcRMtORF8KY1r8",
+    "part_id": "part_371",
+    "crawled_at": "2026-09-20 20:31:18"
+  }
+]

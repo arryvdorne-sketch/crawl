@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "SRS Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "795144",
+    "circle": "North Eastern Circle",
+    "region": "North Eastern Region",
+    "division": "Manipur Division",
+    "major_offices": "Somdal S.O, Huime B.O, Kachai B.O",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Civil Hospital Road, Hatsingimari, Assam 783136",
+    "area": "795144",
+    "latitude": 25.7209313,
+    "longitude": 89.9037304,
+    "place_id": "ChIJ6x6ieqOt4jkR0FSpx11epxE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6x6ieqOt4jkR0FSpx11epxE",
+    "part_id": "part_371",
+    "crawled_at": "2026-09-20 20:31:57"
+  }
+]
