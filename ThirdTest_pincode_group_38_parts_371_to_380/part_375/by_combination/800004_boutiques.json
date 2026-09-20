@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Smart Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "800004",
+    "circle": "Bihar Circle",
+    "region": "Patna HQ Region",
+    "division": "Patna Division",
+    "major_offices": "Bankipore HO, JCRoad SO, Machhuatoli SO",
+    "phone_number": "+91 99395 17306",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Shop No. 40, Imam Shopping Centre, Ashok Rajpath Rd, Meena Bazar, Sabzibagh, Dujra Diara, Patna Market, Patna, Bihar 800004",
+    "area": "Meena Bazar, Sabzibagh, Dujra Diara",
+    "latitude": 25.618191799999998,
+    "longitude": 85.15787089999999,
+    "place_id": "ChIJk-4iB_BY7TkRHbu9JAEXGDs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk-4iB_BY7TkRHbu9JAEXGDs",
+    "part_id": "part_375",
+    "crawled_at": "2026-09-20 20:28:31"
+  }
+]
