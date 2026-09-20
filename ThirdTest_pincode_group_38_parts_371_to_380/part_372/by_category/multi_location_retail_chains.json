@@ -70,5 +70,29 @@
     "part_id": "part_372",
     "crawled_at": "2026-09-20 20:20:28",
     "s_no": 14641
+  },
+  {
+    "business_name": "More Supermarket - Ariadaha",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Grocery store",
+    "pincode": "796410",
+    "circle": "North Eastern Circle",
+    "region": "North Eastern Region",
+    "division": "Mizoram Division",
+    "major_offices": "Dapchhuah B.O, Lengpui B.O, Mualkhang B.O",
+    "phone_number": "+91 81081 38000",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "6, 4/1, MM Feeder Rd, Ariadaha, Kolkata, West Bengal 700057",
+    "area": "Ariadaha",
+    "latitude": 22.6651882,
+    "longitude": 88.37120999999999,
+    "place_id": "ChIJs9WfYZSd-DkRBx3uL3f6Y0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs9WfYZSd-DkRBx3uL3f6Y0g",
+    "part_id": "part_372",
+    "crawled_at": "2026-09-20 20:26:55",
+    "s_no": 40569
   }
 ]
