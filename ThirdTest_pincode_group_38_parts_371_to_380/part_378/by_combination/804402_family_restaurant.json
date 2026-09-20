@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Tasty Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "804402",
+    "circle": "Bihar Circle",
+    "region": "Patna HQ Region",
+    "division": "Gaya Division",
+    "major_offices": "Baidrabad SO, Fatehpur Sanda BO, Hasanpur BO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "6JHV+37Q, Baidrabad, Bihar 804402",
+    "area": "804402",
+    "latitude": 25.227714,
+    "longitude": 84.6432471,
+    "place_id": "ChIJF0X_e95BjTkRfLWoTjG6MWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF0X_e95BjTkRfLWoTjG6MWg",
+    "part_id": "part_378",
+    "crawled_at": "2026-09-20 20:32:58"
+  }
+]

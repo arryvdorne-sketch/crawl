@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Rohit's General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "803215",
+    "circle": "Bihar Circle",
+    "region": "East Region, Bhagalpur",
+    "division": "Nalanda Division",
+    "major_offices": "NTPC Barh SO",
+    "phone_number": "+91 93041 78137",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Township ,ntpc, barh, Barh, Bihar 803215",
+    "area": "803215",
+    "latitude": 25.4874825,
+    "longitude": 85.7327553,
+    "place_id": "ChIJaXwZEvZ78jkR0rT0BH-971Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaXwZEvZ78jkR0rT0BH-971Q",
+    "part_id": "part_378",
+    "crawled_at": "2026-09-20 20:27:26"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Gadget hub",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "804406",
+    "circle": "Bihar Circle",
+    "region": "Patna HQ Region",
+    "division": "Gaya Division",
+    "major_offices": "Ghosi SO Jehanabad, Ginji BO, Korra BO",
+    "phone_number": "+91 73529 31195",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Malahchak Rd, Jehanabad, Bihar 804408",
+    "area": "804406",
+    "latitude": 25.2159761,
+    "longitude": 84.9926012,
+    "place_id": "ChIJzcGOyBC18jkRFtqHyqiKrlo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzcGOyBC18jkRFtqHyqiKrlo",
+    "part_id": "part_378",
+    "crawled_at": "2026-09-20 20:35:16"
+  }
+]
