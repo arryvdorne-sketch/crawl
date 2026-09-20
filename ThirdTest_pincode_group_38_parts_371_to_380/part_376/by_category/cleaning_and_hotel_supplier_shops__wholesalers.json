@@ -718,5 +718,29 @@
     "part_id": "part_376",
     "crawled_at": "2026-09-20 20:47:22",
     "s_no": 49194
+  },
+  {
+    "business_name": "गुनगुन मल्टीपरपज वर्क",
+    "search_category": "Cleaning and Hotel Supplier shops/ wholesalers",
+    "primary_category": "Hotel supply store",
+    "all_categories": "Hotel supply store",
+    "pincode": "802156",
+    "circle": "Bihar circle",
+    "region": "Patna HQ Region",
+    "division": "Bhojpur Division",
+    "major_offices": "Agrsanda Behara BO, Basantpur BO, Dariapur BO",
+    "phone_number": "+91 79797 60479",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "कडारी ढोबहा बाजार, Karari, Arrah, Bihar 802156",
+    "area": "802156",
+    "latitude": 25.6148354,
+    "longitude": 84.59354429999999,
+    "place_id": "ChIJAz7BIFqfkjkR_yFG40BUFJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAz7BIFqfkjkR_yFG40BUFJA",
+    "part_id": "part_376",
+    "crawled_at": "2026-09-20 20:48:34",
+    "s_no": 50578
   }
 ]

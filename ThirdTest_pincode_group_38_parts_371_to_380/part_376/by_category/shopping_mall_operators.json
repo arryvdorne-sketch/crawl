@@ -1294,5 +1294,29 @@
     "part_id": "part_376",
     "crawled_at": "2026-09-20 20:47:33",
     "s_no": 49362
+  },
+  {
+    "business_name": "Maa Laxmi Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "802161",
+    "circle": "Bihar circle",
+    "region": "Patna HQ Region",
+    "division": "Bhojpur Division",
+    "major_offices": "Allipur BO, Bhadwar BO, Jamira BO",
+    "phone_number": "+91 62046 52210",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "GJQX+3MG E-Com Express courier Anaight, Sarvodaya nagar, Vishnu Nagar, Jagdev Nagar, Arrah, Bihar 802302",
+    "area": "Vishnu Nagar, Jagdev Nagar",
+    "latitude": 25.5372357,
+    "longitude": 84.6499079,
+    "place_id": "ChIJJ2CjMOhfjTkRM4khIO4RCxQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ2CjMOhfjTkRM4khIO4RCxQ",
+    "part_id": "part_376",
+    "crawled_at": "2026-09-20 20:52:09",
+    "s_no": 56520
   }
 ]
