@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Car rental",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "805103",
+    "circle": "Bihar circle",
+    "region": "East Region, Bhagalpur",
+    "division": "Nawadha Division",
+    "major_offices": "Baijnathpur BO, Barat Sarai BO, Barhauna BO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Manjhwe (मंझवे, Manjhwe, मांझवे, Tungi, Bihar 805129",
+    "area": "Manjhwe",
+    "latitude": 24.809411599999997,
+    "longitude": 85.31719939999999,
+    "place_id": "ChIJZ28rnVEf8zkRkjMXsYRDH0s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ28rnVEf8zkRkjMXsYRDH0s",
+    "part_id": "part_379",
+    "crawled_at": "2026-09-20 20:20:38"
+  }
+]
